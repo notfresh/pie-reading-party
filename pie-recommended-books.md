@@ -16,6 +16,23 @@ Foundation Trilogy
 作者：严耕望
 出版：上海人民出版社 2016
 
+# 第61期 操作系统怎么才算“国产”
+这一期我们聊了 Google 内部文件揭示的AI研发困局、Chris Lattner 的新编程语言、淄博烧烤背后的工业化和文化底蕴，以及应听友要求谈了谈到底什么样的操作系统才算“国产操作系统”，还有五月的荐书。
+
+↓↓↓荐书单23-05↓↓↓
+
+流浪地球2电影制作手记
+编著：朔方 等
+出版：中信出版集团 2023
+
+Everything You Need to Ace Computer Science and Coding in One Big Fat Notebook: The Complete Middle School Study Guide
+作者: Workman Publishing
+出版: Workman Publishing Company 2020
+
+老子通识
+作者：郭永秉
+出版：中华书局 2022
+
 # 第57期 好学韭菜的防割指南
 这期我们聊了阿里组织变革及业务中台的命运、近期关于加班和微信聊天截图的瓜、听友群里冒出来的帮助好学韭菜的话题，还有四月的荐书。
 

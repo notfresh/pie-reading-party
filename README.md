@@ -30,7 +30,7 @@
 大家也可以随时关注该仓库。 
 
 ## 分享模板
-内容等用于 [share-template.md](./share-template.md) 里的内容，放到这里大家方便粘贴到 Issue 区里。
+内容等同于 [share-template.md](./share-template.md) 里的内容，放到这里大家方便看到并且粘贴到 Issue 区里。
 ```
 # 分享标题【替换成你自己的】
 

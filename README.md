@@ -11,6 +11,18 @@
 
 书籍选择不限，如果你不知道读什么书的话，可以参考 [PIE播客节目三位老师推荐的书单](./pie-recommended-books.md)。
 
+
+
+为了方便大家在国内更好的访问，现在开通 Github 和 Gitee两个同步仓库，分别是 
+
+- [github.com/notfresh/pie-reading-party](https://github.com/notfresh/pie-reading-party)
+
+- [gitee.com/notfresh/pie-reading-party](https://gitee.com/notfresh/pie-reading-party) 
+
+如果国内不方便访问github.com，请访问 gitee.com。
+
+请在两个仓库任意其中一个的Issue区填写你想分享的活动，我会帮忙同步过来。
+
 # 活动预告
 
 ## 时间
@@ -20,12 +32,14 @@
 
 第三期活动计划于2023年9月16日或者17日的某一天举行，这两天都是周末双休，而且是9月15日后第一个周末。
 
+
+
 ## 地点
 腾讯会议
 
 ## 分享者和分享内容
 待征集...
- 
+
 
 报名分享的相关内容，在当天分享2个小时之前都可以在听友群讨论或者自己直接去Issue区填写，请不要忘记Github Issue区提交，因为我可能会漏看消息。 
 

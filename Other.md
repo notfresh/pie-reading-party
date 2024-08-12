@@ -33,3 +33,4 @@
 我在Github上开了一个项目，叫做[Hello Chinese Startup](https://github.com/John-Qu/Hello-Chinese-Startup)，专门用来搜集中国黑客创业者的采访记录，欢迎大家push投稿。未来半年，我会在上海交大徐汇校区办一个读书会，每个周末，几个人围坐在咖啡馆，讲各自的体会和故事。
 
 这里是我的个人网络痕迹，[Github](https://github.com/John-Qu)，[LinkedIn](https://www.linkedin.com/in/政-曲-1b20b5147/)，微信“bbQuickor”和公众号“贝拉图”，敬请人肉，欢迎搭讪。
+

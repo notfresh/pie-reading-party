@@ -1,3 +1,39 @@
+
+# ↓↓↓荐书单24-08↓↓↓
+
+法律3.0
+Law 3.0: Rules, Regulation, and Technology by Roger Brownsword
+作者：[英] 罗杰·布朗斯沃德 Roger Brownsword
+译者:
+出版：RoutledGe 2020，北京大学出版社 2023
+
+教育新语
+Brave New Words: How AI Will Revolutionize Education
+作者：[美] 萨尔曼·可汗 Salman Khan
+译者: 万海鹏 王琦
+出版：Viking 2024，中信出版社 2024
+
+失焦 – 卡帕战地摄影手记
+Slightly Out of Focus
+作者：[美] 罗伯特·卡帕 Robert Capa
+译者: 徐振锋
+出版：Henry Holt 1947，广西师范大学出版社 2005
+
+# ↓↓↓荐书单24-07↓↓↓
+
+数学家的眼光
+作者：张景中
+出版：中国少年儿童出版社 2007
+
+中国传统色：故宫里的色彩美学
+作者：郭浩 李健明
+出版：中信出版社 2020
+
+美国通史
+作者：钱满素 张瑞华
+出版：上海社会科学院出版社 2020
+
+
 # 第80期 数字教育的新探索
 ↓↓↓荐书单23-09↓↓↓  
 
